@@ -129,6 +129,13 @@ CFConv
     :members: forward
     :show-inheritance:
 
+GCN2Conv
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. autoclass:: dgl.nn.pytorch.conv.GCN2Conv
+    :members: forward
+    :show-inheritance:
+    
 DotGatConv
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
